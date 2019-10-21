@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
+<<<<<<< HEAD
 *.js linguist-language=NodeJS
+=======
+*.js linguist-language=NodeJs
+>>>>>>> fd37993d330194b5f39e704d04a7f0754228dd03
